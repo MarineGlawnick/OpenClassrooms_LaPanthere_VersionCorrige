@@ -477,7 +477,8 @@ button {
     outline: none !important;
 }
 
-.btn-rd:focus {
+.btn-rd:focus,
+.btn-lg:focus {
     text-decoration: underline;
 }
 
