@@ -729,6 +729,12 @@ q {
     margin: auto auto auto auto;
 }
 
+.social:focus {
+    display: block;
+    border: solid #FFFFFF 2px;
+    border-radius: 5px;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
